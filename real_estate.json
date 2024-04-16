@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://l.icdbcdn.com/oh/e1224176-909c-487a-9ae0-7d8460446be9.jpg?w=2080",
+    "estate_title": "Modern Luxury Villa",
+    "id": "1",
+    "segment_name": "Residential",
+    "description": "Chic, modern and stylish villas with private pools in Almyrida designed with comfort in mind. These luxury villas in Chania Crete offer guests a variety of comforts and amenities to ensure a wonderful stay. The large windows allow abundant sunlight to stream into the rooms creating a feeling of calmness and wellbeing.",
+    "price": "$2,500,000",
+    "status": "Sale",
+    "area": "4000 sq ft",
+    "location": "Coastal area, California",
+    "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+  },
+  {
+    "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/2/8/1/CI_Halstead_History-of-Penthouses-6.jpg.rend.hgtvcom.1280.960.suffix/1518139442662.jpeg",
+    "estate_title": "Luxury Pent House",
+    "id": "2",
+    "segment_name": "Residential",
+    "description": "There’s perhaps a no more extravagant experience than scaling a skyscraper and exiting the elevator into a palatial, top-floor penthouse. These apartments, considered the crown jewels of any apartment tower, have a unique history that dates to 1920s New York. Today, the penthouse accounts for an entire sector of the luxury real estate market, reserved for a select group of residents who prefer their palaces sky-high. From New York to Los Angeles, it’s the kind of property that requires just the right buyer willing to pay prices as high as their apartments.",
+    "price": "$600,000",
+    "status": "Sale",
+    "area": "1500 sq ft",
+    "location": "Downtown, New York",
+    "facilities": ["Living Room", "Communal Garden", "Kitchen"]
+  },
+  {
+    "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/2/8/1/CI_Scott-Frances_History-of-Penthouses-2.jpg.rend.hgtvcom.616.411.suffix/1518139453408.jpeg",
+    "estate_title": "The Modern-Day Penthouse",
+    "id": "3",
+    "segment_name": "Residential",
+    "description": "These days, penthouse designs fall short of Marjorie Merriweather Post’s palace. But buildings have gotten taller, meaning that the views from top-floor pads have only gotten more impressive. According to Corcoran agent Scott Stewart – now marketing the penthouse at the Upper East Side development 20 East End Avenue – the penthouse refers to the top floor unit of any tall residential building. “They could be cream of the crop or they could be run of the mill,” he says. But in new, luxury developments, the space is still considered the showpiece of the building, often priced highest out of all the units. “In the luxury market, these are often full-floor units, with incredible ceiling height, large windows and views,” Stewart says.",
+    "price": "$400,000",
+    "status": "Sale",
+    "area": "2500 sq ft",
+    "location": "Suburban area, Texas",
+    "facilities": ["Living Room", "Backyard", "Kitchen"]
+  },
+  {
+    "image": "https://cdn.photos.sparkplatform.com/cab/20240120224526806358000000-o.jpg",
+    "estate_title": "Penthouse Casa Del Mar Villa Ballena",
+    "id": "4",
+    "segment_name": "Residential",
+    "description": "This exquisite penthouse offers unparalleled luxury living with breathtaking city views. It features high-end finishes, expansive living areas, a private terrace, and access to exclusive amenities such as a spa and fitness center.",
+    "price": "$3,800,000",
+    "status": "Sale",
+    "area": "3000 sq ft",
+    "location": "City center, California",
+    "facilities": ["Living Room", "Terrace", "Spa", "Fitness Center", "Kitchen"]
+  },
+  {
+    "image": "https://www.travelandleisure.com/thmb/181yagnEsM84ITqhxIgTveFqzOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-montage-cay-FULLTIMERESORT0823-4f91604fae9340d18c5f6226ea612439.jpg",
+    "estate_title": "Soneva Fushi, Maldives",
+    "id": "5",
+    "segment_name": "Residential",
+    "description": "Soneva Fushi has situated in Baa Atoll island archipelago which is a UNESCO world biosphere. It is known as Maldives original hideaway island. This resort has the best soft sand and palm-fringed beaches around. The resort has huge Robinson Crusoe-style, multi-bedroom villas and private residence which is hidden around the tropical foliage. Few of them are built like a treehouse and others have a private seawater swimming pool and open to their white sand share.",
+    "price": "$800,000",
+    "status": "Sale",
+    "area": "1200 sq ft",
+    "location": "Coastal area, Florida",
+    "facilities": ["Living Room", "Deck", "Private Beach Access", "Kitchen"]
+  },
+  {
+    "image": "https://www.aman.com/sites/default/files/2021-03/Amanyara_Gallery_11.jpg",
+    "estate_title": "Amanyara, Turks and Caico island",
+    "id": "6",
+    "segment_name": "Residential",
+    "description": "Amanyara is located in the Providenciales of Turks and Caicos island and offers the best element of the Caribbean. It shares a border with the famous reef of northwest point Marine national park which has the world’s best wall and reef diving. The guest can witness sea turtles along the coral reef and water as clear as a crystal and magnificent powder-white beach. The outdoor space is huge and offers you the best ocean view along with coastal vegetation.",
+    "price": "$5,000/month",
+    "status": "Rent",
+    "area": "2000 sq ft",
+    "location": "Business district, New York",
+    "facilities": ["Meeting Rooms", "Kitchenette"]
+  }
+]
